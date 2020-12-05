@@ -1,0 +1,10 @@
+print("Today is one of my many first days to learn Python!")
+print('Python is fun')
+print("Python's strings are easy to use")
+print('Pytohn"s strings are to be used this way')
+print('We can even include "Quotes" in a string')
+print("Hello"+" World!")
+greetings= "Hello!"
+name =input("Pleae enter your name")
+print("Hello" + name+ "!")
+print("Hello"+" "+name)
